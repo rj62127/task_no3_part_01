@@ -173,7 +173,7 @@ Check Docker Logs: Ensure that the Kafka brokers and other services are up and r
 
 Access Grafana:
 
-    Open your browser and go to http://localhost:3030.
+    Open your browser and go to http://localhost:3000.
     Log in with the default credentials (admin / admin).
     Once logged in, go to the home screen and browse the dashboard to verify that the Kafka metrics are being displayed correctly.
 
