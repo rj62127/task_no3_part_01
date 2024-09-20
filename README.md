@@ -180,3 +180,4 @@ Access Grafana:
 
 
 
+NOTE:-  Document SSL setup and Grafana monitoring instructions in README for Kafka cluster. If you want to check the results, go to the "Images" section where I've added screenshots for reference.
